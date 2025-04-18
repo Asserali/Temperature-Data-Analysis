@@ -1,6 +1,3 @@
-Sure! Here's the full README formatted for easy copying and pasting:
-
-```markdown
 # Temperature Data Management Program
 
 ## Overview
@@ -118,6 +115,3 @@ Feel free to contribute by submitting pull requests, reporting issues, or making
 ## Acknowledgments
 
 - Standard C libraries were used for file operations and user interaction.
-```
-
-You can now copy and paste this directly into your GitHub repository's README file.
